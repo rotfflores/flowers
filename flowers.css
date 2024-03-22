@@ -108,7 +108,7 @@ body {
 .flower {
     width: 50px;
     height: 50px;
-    animation: giro1 10s linear infinite;
+    animation: giro1 50s linear infinite;
     transform: scale(1) translate(-35px, -35px) rotate(360deg); 
 }
 
